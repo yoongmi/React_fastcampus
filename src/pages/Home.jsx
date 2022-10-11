@@ -27,7 +27,7 @@ const StyledMyButton = styled(MyButton)`
   margin: 0 5px;
 `;
 
-const GlobalStyle = createGlobalStyle`button{color:yellow; }`;
+const GlobalStyle = createGlobalStyle`button{color:slateblue; }`;
 
 export default function Home() {
   return (
